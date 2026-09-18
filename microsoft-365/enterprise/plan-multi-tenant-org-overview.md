@@ -91,7 +91,6 @@ Use of the multitenant organization feature requires Microsoft Entra ID P1 licen
 The following are limitations of the multitenant organizations in Microsoft 365:
 
 - A maximum of 100 tenants in the multitenant organization is supported.
-- Microsoft Teams Rooms (MTR) aren't supported.
 
 - The ability to grant or revoke permission to receive notifications from other tenants and to switch between tenants isn't supported on mobile.
 - *People in your organization* links may not work for users from another tenant if their account had originally been a guest and they had previously accessed SharePoint resources.
